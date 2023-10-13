@@ -1,0 +1,79 @@
+.verline1 {
+    border-left: 2px solid black;
+    height: 35px;
+}
+
+.nav:hover {
+    background-color: #1881c3;
+    color: white;
+    border-radius: 100px;
+    padding: 10px 18px;
+}
+
+.nav {
+    color: rgb(0, 0, 0);
+    border-radius: 100px;
+    padding: 10px 18px;
+
+}
+
+.btn {
+    background-color: #1881c3;
+}
+
+.btn:hover {
+    background-color: #116599;
+}
+
+.four .b-rad {
+    border-radius: 40px;
+}
+
+.lightblue {
+    color: #009DFF;
+}
+
+.dark-blue {
+    color: #0072BA;
+}
+
+p .blue {
+    color: #109adc;
+}
+
+#justify {
+    text-align: justify;
+}
+
+.footer .list ul li {
+    list-style: none;
+}
+
+.footer ul li a {
+    text-decoration: none;
+    font-size: 25px;
+    opacity: 0.7;
+    color: white;
+}
+
+.footer ul li a:hover {
+    color: #109adc;
+}
+
+.hr {
+    border-top: 3px solid white;
+}
+
+.verline2 {
+    border-left: 2px solid rgb(255, 255, 255);
+    height: 100px;
+}
+
+html {
+    overflow-x: hidden;
+}
+
+.para {
+    font-size: 17px;
+    margin-top: 40px;
+}
